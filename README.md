@@ -1,8 +1,6 @@
 # Natural-Language-Processing
 Compilation of notes related to Natural Language Processing
 
-### By Professor Avinash Nawlani
-
 - Skill > Degree
 - Non-elite is secondary
 - CTC (Cost to Company)
