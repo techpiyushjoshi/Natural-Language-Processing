@@ -1,5 +1,5 @@
 # Natural-Language-Processing
-Compilation of notes related to Natural Language Processing
+Compilation of notes and study material related to Natural Language Processing
 
 - Skill > Degree
 - Non-elite is secondary
