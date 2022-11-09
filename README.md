@@ -1,6 +1,6 @@
 # Natural-Language-Processing
 Compilation of notes and study material related to Natural Language Processing
-
+by Avnisha N
 - Skill > Degree
 - Non-elite is secondary
 - CTC (Cost to Company)
