@@ -1,5 +1,5 @@
 # Text Clustering on Machinelearninggeek.com Data
-- Applied Tf-Idf Vectorizer* and K-Means Algorithm to better segment the articles fetched using requests library from Machine Learning Geek*
+- Applied *`Tf-Idf Vectorizer`* and *`K-Means Algorithm`* to better segment the articles fetched using requests library from Machine Learning Geek*
 - Submitted By : By Piyush Joshi
 - Roll Number : DS5B-2121
 - Submitted To : Prof. Avinash Nalvani
