@@ -1,4 +1,4 @@
-# Natural-Language-Processing
+# Natural Language Processing
 Compilation of notes and study material related to Natural Language Processing by Avinash Nalwani
 
 - Skill > Degree
