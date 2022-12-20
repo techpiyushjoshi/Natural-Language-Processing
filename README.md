@@ -27,7 +27,7 @@ EX((Exploration)) ---DS(Data Scientist)---AR{Architect}---BM(Branch Manger)---EX
 | Machine Learning | Stats | SQL | In Financial Analyst (Stock Companies) | Statistician |  |  |
 | Statistician | Power BI | Data Warehouse (Snowflake, DBT, Informatory) | SQL | Pharmastats (Ahemdabad Firm) (IGNOU PG Diploma - Gyankosh (Biostatistics Course) |  |  |
 | Natural Language Processing | Tableau | Airflow | Power BI | OCR comes here |  |  |
-| Deep Learning | Looker | Hadoop, Spark, Hive | Reporting | Health Insurance company submit claim insurance form |  |  |
+| Deep Learning  | Looker | Hadoop, Spark, Hive | Reporting | Health Insurance company submit claim insurance form |  |  |
 | Computer Vision | Data Studio | Kafka | Market Research (Statistics) - Market Survey, Customer Churn |  |  |  |
 | SQL | Qlikview |  |  |  |  |  |
 | Cloud (Azure, AWS) |  |  |  |  |  |  |
@@ -74,7 +74,7 @@ X2--->Y2
     - Data Scientist
     - Data Engineer
     - Data Analyst
-    - Statistician
+    - Statisticians
     - ML Engineer (Data Scientist can’t deploy model, this is a software engineer who knows ML)
     - NLP Engineer
     - Business Analyst: IT, Stock Firms (which shares you should buy, what thing you should invest like Crypto stuff)
