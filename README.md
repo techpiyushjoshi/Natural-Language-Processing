@@ -1,6 +1,6 @@
 # Natural Language Processing (NLP)
 Compilation of notes and study material related to Natural Language Processing by Avinash Nalwani
-
+D1
 - Skill > Degree
 - Non-elite is secondary
 - CTC (Cost to Company)
