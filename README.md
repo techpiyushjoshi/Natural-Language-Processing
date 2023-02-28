@@ -1,4 +1,4 @@
-# Natural Language Processing (NLP)
+# Natural Language Processing 
 Compilation of note and study material related to Natural Language Processing by Avinash Nalwani
 D1
 - Skill > Degree
